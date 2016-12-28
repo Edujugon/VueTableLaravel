@@ -1,0 +1,11 @@
+{
+  "name": "edujugon/vue-table-laravel",
+  "description": "Powerful Vue Table for Laravel DB Tables Data.",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Eduardo Marcos",
+      "email": "edujugon@gmail.com"
+    }
+  ]
+}
