@@ -1,6 +1,6 @@
 # Vue Table Laravel
 
-Powerful Vue Table for Laravel DB Tables Data.
+Powerful Vue Table to handle Laravel DB Tables Data.
 
 ## Usage
 

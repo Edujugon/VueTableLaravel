@@ -1,6 +1,6 @@
 {
   "name": "edujugon/vue-table-laravel",
-  "description": "Powerful Vue Table for Laravel DB Tables Data.",
+  "description": "Powerful Vue Table to handle Laravel DB Tables Data.",
   "license": "MIT",
   "authors": [
     {
