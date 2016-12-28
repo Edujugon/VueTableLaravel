@@ -44,7 +44,7 @@ Copy the VueTable component to your resources/assets/js/components folder.
 
 ### App.js
 
-Add the following line to your app.js file:`
+Add the following line to your app.js file:
 
 ```
 Vue.component('edujugon-table', require('./components/VueTable.vue'));
@@ -57,5 +57,5 @@ Add the following tag in your View:
 > Ensure you change the table name with the name of your table to be showed.
 
 ```
-<edujugon-table table="products"></edujugon-table>
+<edujugon-table table="YOUR-TABLE-NAME"></edujugon-table>
 ```
