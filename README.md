@@ -9,7 +9,7 @@ Powerful Vue Table to handle Laravel DB Tables Data.
 Create the following method in your controller.
 
 ```
-/**
+    /**
      * @param Request $request
      * @param $field
      * @param $dir
